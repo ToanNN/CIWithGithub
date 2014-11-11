@@ -25,6 +25,7 @@ namespace GitCI.Controllers
         {
             UserManager = userManager;
             SignInManager = signInManager;
+
         }
 
         public ApplicationUserManager UserManager
